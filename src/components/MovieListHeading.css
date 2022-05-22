@@ -1,0 +1,7 @@
+.col {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 30px;
+  color: #001858;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
